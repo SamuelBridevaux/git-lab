@@ -9,7 +9,7 @@ Please enter your `first-name` in the list below:
 04. Samuel (@SamuelBridevaux)
 03. B. Gregory (@District25)
 04. B. S.
-05. B. J.
+05. Jeremie
 06. C. Nathan
 07. Gabriel (@Gabs2Sou)
 08. D. Y.
